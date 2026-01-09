@@ -1,4 +1,4 @@
-<# 👋 Hi, I'm *Animam Favour*!
+## 👋 Hi, I'm *Animam Favour*!
 
 ## 🌐 *Data Analyst | SQL Developer | Power BI & Data Visualization Specialist | Tech Blogger*
 
